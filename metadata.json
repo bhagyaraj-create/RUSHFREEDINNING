@@ -1,0 +1,10 @@
+
+{
+  "name": "RushFree Dining",
+  "description": "Pre-order your favorite meals and reserve your seat to skip the rush. Pay upfront for a guaranteed spot and enjoy a seamless dining experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
